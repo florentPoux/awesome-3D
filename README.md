@@ -1,4 +1,5 @@
-# Awesome 3D Knowledge (Production in 2024)
+# Awesome 3D Knowledge (Production in 2024) ![Static Badge](https://img.shields.io/badge/awesome-3D-red)
+
 Resources authored by 🦊 [Florent Poux](https://github.com/florentPoux) to learn about 3D Data Science. You have two main sections:
 * **Premium** (8%): This includes the most complete and refined pieces, either books or courses, with code (commercially usable).
 * **Open-Access** (92%): This includes standalone pieces, with MIT or CC-NC licenses, to learn and create POCs.
