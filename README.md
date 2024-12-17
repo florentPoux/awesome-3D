@@ -4,7 +4,7 @@ Resources authored by 🦊 [Florent Poux](https://github.com/florentPoux) to lea
 * **Open-Access** (92%): This includes standalone pieces, with MIT or CC-NC licenses, to learn and create POCs.
 
 The **Premium** helps me build the **Open-Access**. My aim for 2025 is a **1%-to-99% ratio**. 
-If you want to support this endeavour while learning: Get a [3D Book](https://www.amazon.com/Data-Science-Python-Environments-Workflows/dp/1098161335) or join a [3D Course OS](https://learngeodata.eu).
+If you want to support 💖 this endeavour while learning: Get a [3D Book](https://www.amazon.com/Data-Science-Python-Environments-Workflows/dp/1098161335) or join a [3D Course OS](https://learngeodata.eu).
 
 ## Premium 🌟
 ### Books (x1)
