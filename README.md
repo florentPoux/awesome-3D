@@ -10,7 +10,7 @@ If you want to support 💖 this endeavour while learning: Get a [3D Book](https
 ## Christmas Specials 🎁
 
 3D Datasets as an image (.png), a 3D Point Cloud (.ply) and a 3D Mesh (.glb) from a Image-to-3D GenAI Solution
-
+![The Christmas specials](https://github.com/florentPoux/awesome-3D/blob/main/renders_small.png)
 * The purple Christmas Tree - [Download the tree files (.png, .ply, .glb)](https://drive.google.com/drive/folders/1Ug_Td4Lq4mAqAckMBAhBTtm3BykY_Shx?usp=sharing)
 * The 3D Tech Reindeer - [Download the reindeer files (.png, .ply, .glb)](https://drive.google.com/drive/folders/1Ug_Td4Lq4mAqAckMBAhBTtm3BykY_Shx?usp=sharing)
 * The Santa - [Download the santa files (.png, .ply, .glb)](https://drive.google.com/drive/folders/1Ug_Td4Lq4mAqAckMBAhBTtm3BykY_Shx?usp=sharing)
